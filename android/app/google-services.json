@@ -1,49 +1,42 @@
 {
   "project_info": {
-    "project_number": "665419326653",
-    "project_id": "chess-central-4c15f",
-    "storage_bucket": "chess-central-4c15f.appspot.com"
+    "project_number": "116469482588",
+    "project_id": "flutterfire-ea458",
+    "storage_bucket": "flutterfire-ea458.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:665419326653:android:077cf8ab4494bd67c183d4",
+        "mobilesdk_app_id": "1:116469482588:android:16502305c77238be979299",
         "android_client_info": {
-          "package_name": "com.chesscentral.app"
+          "package_name": "com.example.get_flutter_fire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "665419326653-7boc52h82ni06dlnc16oevcfeoored5e.apps.googleusercontent.com",
+          "client_id": "116469482588-2q7ab0jiur3g4u1ub0uj5monamsqd0cr.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.chesscentral.app",
-            "certificate_hash": "4e961d881a11e79ac32d52e2a9a56fc31d17650c"
+            "package_name": "com.example.get_flutter_fire",
+            "certificate_hash": "903757f3f7a2702f0f912bec8fbec6a25aa5530e"
           }
         },
         {
-          "client_id": "665419326653-uc4h9vcq20t5m38oglql9q34eah160fj.apps.googleusercontent.com",
+          "client_id": "116469482588-ok9skjilv4ula5cbjd3c2kl1hu9dm287.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDDN0LWO7i8Wpe6REmBbaTu5SmcGnUs0e4"
+          "current_key": "AIzaSyCIxwLoeqZqyXU9m1Vkva2f1-15Z_EJJ_Y"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "665419326653-uc4h9vcq20t5m38oglql9q34eah160fj.apps.googleusercontent.com",
+              "client_id": "116469482588-ok9skjilv4ula5cbjd3c2kl1hu9dm287.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "665419326653-a24rvt8u1atdcgvrhf08d6qq9h39d55n.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.getFlutterFire"
-              }
             }
           ]
         }
