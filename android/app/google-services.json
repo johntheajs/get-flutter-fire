@@ -1,49 +1,34 @@
 {
   "project_info": {
-    "project_number": "665419326653",
-    "project_id": "chess-central-4c15f",
-    "storage_bucket": "chess-central-4c15f.appspot.com"
+    "project_number": "228126813349",
+    "project_id": "chess-3f4cb",
+    "storage_bucket": "chess-3f4cb.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:665419326653:android:077cf8ab4494bd67c183d4",
+        "mobilesdk_app_id": "1:228126813349:android:6872354fb67ed9c495f14c",
         "android_client_info": {
-          "package_name": "com.chesscentral.app"
+          "package_name": "com.example.get_flutter_fire"
         }
       },
       "oauth_client": [
         {
-          "client_id": "665419326653-7boc52h82ni06dlnc16oevcfeoored5e.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.chesscentral.app",
-            "certificate_hash": "4e961d881a11e79ac32d52e2a9a56fc31d17650c"
-          }
-        },
-        {
-          "client_id": "665419326653-uc4h9vcq20t5m38oglql9q34eah160fj.apps.googleusercontent.com",
+          "client_id": "228126813349-7c53n8dqvu1i79tq2ladqlrkf91hnhvh.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDDN0LWO7i8Wpe6REmBbaTu5SmcGnUs0e4"
+          "current_key": "AIzaSyB0OZl27muBg1XrNL_6uRbh9eaxLIiPKzc"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "665419326653-uc4h9vcq20t5m38oglql9q34eah160fj.apps.googleusercontent.com",
+              "client_id": "228126813349-7c53n8dqvu1i79tq2ladqlrkf91hnhvh.apps.googleusercontent.com",
               "client_type": 3
-            },
-            {
-              "client_id": "665419326653-a24rvt8u1atdcgvrhf08d6qq9h39d55n.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.example.getFlutterFire"
-              }
             }
           ]
         }
