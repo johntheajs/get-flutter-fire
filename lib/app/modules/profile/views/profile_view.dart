@@ -53,7 +53,7 @@ class ProfileView extends StatelessWidget {
                         radius: 50,
                         backgroundImage: NetworkImage(
                           _controller.userData['imageUrl'] ??
-                              'https://via.placeholder.com/150',
+                              ' ',
                         ),
                       );
                     }
@@ -134,7 +134,7 @@ class ProfileView extends StatelessWidget {
                     backgroundImage: _selectedImage != null
                         ? FileImage(_selectedImage!)
                         : NetworkImage(_controller.userData['imageUrl'] ??
-                        'https://via.placeholder.com/150') as ImageProvider,
+                        ' ') as ImageProvider,
                     child: Icon(Icons.camera_alt, color: Colors.white.withOpacity(0.7), size: 40),
                   ),
                 ),

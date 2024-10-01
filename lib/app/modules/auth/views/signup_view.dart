@@ -80,6 +80,7 @@ class SignUpView extends StatelessWidget {
                       email: emailController.text.trim(),
                       password: passwordController.text.trim(),
                       name: nameController.text.trim(),
+                      imageUrl: "",
                       phoneNumber: phoneController.text.trim(),
                     );
                   } else {
