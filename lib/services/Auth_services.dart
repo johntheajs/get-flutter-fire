@@ -23,6 +23,7 @@ class AuthService {
       // Send email verification if the user is not null
       if (user != null) {
         await user.sendEmailVerification();
+        print('Verification email sent successfully.');
       }
       return user;
     } catch (e) {
@@ -111,5 +112,9 @@ class AuthService {
       print('Error sending password reset email: $e');
       rethrow;
     }
+  }
+
+  User? getCurrentUser() {
+    return _auth.currentUser; // Returns the currently signed-in user
   }
 }
